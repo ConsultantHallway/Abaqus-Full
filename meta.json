@@ -1,0 +1,23 @@
+{
+  "repo": "abaqus-full",
+  "product": "Abaqus Full",
+  "kind": "engineering",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "fea",
+  "topics": [
+    "abaqus-simulation",
+    "nonlinear-step-desk",
+    "odb-contour-windows",
+    "abaqus-2026",
+    "how-to-install-abaqus",
+    "abaqus-desktop-package",
+    "contact-job-suite",
+    "xy-report-tools",
+    "fea-complete-edition",
+    "abaqus-advanced"
+  ],
+  "site": "toolix.me"
+}
